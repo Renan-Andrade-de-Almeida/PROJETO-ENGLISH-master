@@ -1,0 +1,26 @@
+#info{
+    background-image: linear-gradient(#000000, #010018);
+    opacity: 0.90;
+    color: aliceblue;
+    text-align: center;
+    height: 995px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.infoAboutMeH{
+    font-size: 1200;
+    padding-top: 50px;
+}
+.infoAboutMeP{
+    font-size: 18px;
+    font-style: oblique;
+    line-height: 1.7rem;
+    padding: 0 470px;
+    padding-bottom: 40px;
+    text-align: justify;
+}
+#info .call{
+    font-size: 20px;
+    font-weight: bold;
+}
